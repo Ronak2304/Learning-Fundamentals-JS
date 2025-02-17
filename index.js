@@ -330,7 +330,7 @@
 // }))
 
 
-// document.title = "ILOBE_____";
+
 
 // let colours = ["red", "blue", "black", "green", "yellow"];
 // let classBox = document.getElementsByClassName("box"); // gives an array 
