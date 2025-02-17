@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+
+.box {
+    margin: 2rem;
+    padding: 2.5%;
+    color: aquamarine;
+    text-decoration: underline;
+    border: 1px solid black;
+}
